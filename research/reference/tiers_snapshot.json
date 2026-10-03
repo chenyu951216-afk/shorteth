@@ -1,0 +1,130 @@
+{
+  "url": "https://api.bitget.com/api/v2/mix/market/query-position-lever?productType=USDT-FUTURES&symbol=ETHUSDT",
+  "response": {
+    "code": "00000",
+    "msg": "success",
+    "requestTime": 1791021179061,
+    "data": [
+      {
+        "symbol": "ETHUSDT",
+        "level": "1",
+        "startUnit": "0",
+        "endUnit": "200000",
+        "leverage": "150",
+        "keepMarginRate": "0.0040"
+      },
+      {
+        "symbol": "ETHUSDT",
+        "level": "2",
+        "startUnit": "200000",
+        "endUnit": "1000000",
+        "leverage": "100",
+        "keepMarginRate": "0.0050"
+      },
+      {
+        "symbol": "ETHUSDT",
+        "level": "3",
+        "startUnit": "1000000",
+        "endUnit": "3000000",
+        "leverage": "75",
+        "keepMarginRate": "0.0100"
+      },
+      {
+        "symbol": "ETHUSDT",
+        "level": "4",
+        "startUnit": "3000000",
+        "endUnit": "12000000",
+        "leverage": "50",
+        "keepMarginRate": "0.0150"
+      },
+      {
+        "symbol": "ETHUSDT",
+        "level": "5",
+        "startUnit": "12000000",
+        "endUnit": "40000000",
+        "leverage": "25",
+        "keepMarginRate": "0.0200"
+      },
+      {
+        "symbol": "ETHUSDT",
+        "level": "6",
+        "startUnit": "40000000",
+        "endUnit": "70000000",
+        "leverage": "20",
+        "keepMarginRate": "0.0300"
+      },
+      {
+        "symbol": "ETHUSDT",
+        "level": "7",
+        "startUnit": "70000000",
+        "endUnit": "100000000",
+        "leverage": "10",
+        "keepMarginRate": "0.0500"
+      },
+      {
+        "symbol": "ETHUSDT",
+        "level": "8",
+        "startUnit": "100000000",
+        "endUnit": "150000000",
+        "leverage": "8",
+        "keepMarginRate": "0.0700"
+      },
+      {
+        "symbol": "ETHUSDT",
+        "level": "9",
+        "startUnit": "150000000",
+        "endUnit": "200000000",
+        "leverage": "7",
+        "keepMarginRate": "0.0800"
+      },
+      {
+        "symbol": "ETHUSDT",
+        "level": "10",
+        "startUnit": "200000000",
+        "endUnit": "250000000",
+        "leverage": "6",
+        "keepMarginRate": "0.0900"
+      },
+      {
+        "symbol": "ETHUSDT",
+        "level": "11",
+        "startUnit": "250000000",
+        "endUnit": "300000000",
+        "leverage": "5",
+        "keepMarginRate": "0.1200"
+      },
+      {
+        "symbol": "ETHUSDT",
+        "level": "12",
+        "startUnit": "300000000",
+        "endUnit": "400000000",
+        "leverage": "4",
+        "keepMarginRate": "0.1500"
+      },
+      {
+        "symbol": "ETHUSDT",
+        "level": "13",
+        "startUnit": "400000000",
+        "endUnit": "500000000",
+        "leverage": "3",
+        "keepMarginRate": "0.2000"
+      },
+      {
+        "symbol": "ETHUSDT",
+        "level": "14",
+        "startUnit": "500000000",
+        "endUnit": "800000000",
+        "leverage": "2",
+        "keepMarginRate": "0.3000"
+      },
+      {
+        "symbol": "ETHUSDT",
+        "level": "15",
+        "startUnit": "800000000",
+        "endUnit": "1200000000",
+        "leverage": "1",
+        "keepMarginRate": "0.6000"
+      }
+    ]
+  }
+}

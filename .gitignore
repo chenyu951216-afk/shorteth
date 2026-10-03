@@ -1,0 +1,17 @@
+.local/
+.pytest_cache/
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+.env*
+*.sqlite*
+*.db
+credentials.enc
+auth.json
+setup-token
+*.key
+runtime/
+.artifacts/
+build/
+dist/

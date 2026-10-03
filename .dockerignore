@@ -1,0 +1,12 @@
+.git
+.local
+.pytest_cache
+**/__pycache__
+*.egg-info
+.venv
+.env*
+*.sqlite*
+*.key
+build
+dist
+.artifacts
